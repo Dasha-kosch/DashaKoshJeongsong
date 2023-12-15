@@ -921,80 +921,55 @@ a {
     display: none !important;
   }
 }
-.cid-tYs8gX2pBB {
+.cid-tYsQjJ6Pwi {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-tYs8gX2pBB iframe,
-.cid-tYs8gX2pBB img,
-.cid-tYs8gX2pBB video {
+.cid-tYsQjJ6Pwi .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tYsQjJ6Pwi .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
   width: 100%;
-}
-.cid-tYs8gX2pBB .mbr-media {
-  position: relative;
-}
-.cid-tYs8gX2pBB .mbr-media img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-tYs8gX2pBB .icon-wrap {
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  position: absolute;
-}
-.cid-tYs8gX2pBB .mbr-media span {
-  font-size: 4rem;
-  transition: all 0.2s;
-}
-.cid-tYs8gX2pBB .modalWindow {
-  position: fixed;
-  z-index: 5000;
-  left: 0;
-  top: 0;
-  background-color: rgba(61, 61, 61, 0.65);
   height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tYsQjJ6Pwi .video-wrapper iframe {
   width: 100%;
 }
-@media (max-width: 767px) {
-  .cid-tYs8gX2pBB .modalWindow {
-    width: 100vw;
-    height: 100vh;
-  }
+.cid-tYsQjJ6Pwi .mbr-section-title,
+.cid-tYsQjJ6Pwi .mbr-section-subtitle,
+.cid-tYsQjJ6Pwi .mbr-text {
+  text-align: center;
 }
-.cid-tYs8gX2pBB .modalWindow .modalWindow-container {
-  display: table-cell;
-  vertical-align: middle;
+.cid-tYstPN4N1n {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
 }
-.cid-tYs8gX2pBB .modalWindow .modalWindow-video {
-  height: calc(44.9943757vw);
-  width: 80vw;
-  margin: 0 auto;
+.cid-tYstPN4N1n .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-tYs8gX2pBB .close {
-  position: fixed;
-  opacity: 0.5;
-  font-size: 22px;
-  font-weight: 300;
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  color: #fff;
-  top: 2.5rem;
-  right: 2.5rem;
-  border: 2px solid #fff;
-  text-shadow: none;
-  z-index: 5;
-  transition: opacity 0.3s ease;
-  align-items: center;
-  justify-content: center;
-  display: flex;
+.cid-tYstPN4N1n .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
-.cid-tYs8gX2pBB .close:hover {
-  opacity: 1;
-  background: #000;
-  color: #fff;
+.cid-tYstPN4N1n .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tYstPN4N1n .mbr-section-title,
+.cid-tYstPN4N1n .mbr-section-subtitle,
+.cid-tYstPN4N1n .mbr-text {
+  text-align: center;
 }
 .cid-sFF3B84VW8 {
   padding-top: 5rem;
